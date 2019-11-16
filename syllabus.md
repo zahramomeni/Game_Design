@@ -4,4 +4,4 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-TBA
+Please find the syllbaus [here](/static_files/materials/Syllabus.pdf).

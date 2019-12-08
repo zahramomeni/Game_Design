@@ -1,22 +1,22 @@
 # Site settings
 title: Iran University of Science and Technology
-course_name: College Orientation and Student Skills
-course_description: This course attempts to introduce students to the Computer Enginering major, the Department of Computer Engineering at IUST and discuss skills necessary to excel and succeed as a stuent in this major.
+course_name: Some Course Title
+course_description: Course description.
 course_semester: "Fall 2019"
 description: |
-    Instructor: Sauleh Eetemadi
+    Instructor: Zhila Sadati
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
-baseurl: "/co98" # the subpath of your site, e.g. /blog/
-url: "http://sauleh.github.io/co98" # the base hostname & protocol for your site
-syllabus: http://sauleh.github.io/co98/syllabus/
+baseurl: "/course_template" # the subpath of your site, e.g. /blog/
+url: "http://sauleh.github.io/course_template" # the base hostname & protocol for your site
+syllabus: http://sauleh.github.io/course_template/syllabus/
 githubdir: 
 
 # Author/user information
 email: instructor-first-name@iust.ac.ir
-twitter_username: sauleh_e 
-github_username:  sauleh
-authorurl: "http://sauleh.github.io"
+twitter_username: broken_twitter 
+github_username:  broken_github
+authorurl: "http://borken-url.github.io"
 address: |
     School of Computer Engineering
     Iran University of Science and Technology

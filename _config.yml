@@ -2,10 +2,10 @@
 title: Iran University of Science and Technology
 course_name: Some Course Title
 course_description: "هدف از اين درس يادگيري نظريه بازيها و استفاده از روشهاي معرفي شده در اين درس به منظور حل مسائل
-مهندسي است. "
+.مهندسي است "
 course_semester: "Fall 2019"
 description: |
-    Instructor: Zhila Sadati
+    Instructor: 
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
 baseurl: "/Game_Design" # the subpath of your site, e.g. /blog/

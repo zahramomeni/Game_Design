@@ -1,8 +1,9 @@
 # Site settings
 title: Iran University of Science and Technology
 course_name: Some Course Title
-course_description: "هدف از اين درس يادگيري نظريه بازيها و استفاده از روشهاي معرفي شده در اين درس به منظور حل مسائل
-.مهندسي است "
+course_description: "
+The purpose of this lesson is to learn game theory and use the methods presented in this lesson to solve problems.
+It's engineering."
 course_semester: "Fall 2019"
 description: |
     Instructor: 

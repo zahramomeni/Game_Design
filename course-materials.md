@@ -3,6 +3,7 @@ layout: page
 title: Course Materials
 permalink: /course-materials/
 ---
-
-* [The International Student's Guide](/static_files/materials/Books/10_The_International_Students_Guide.pdf)
-* [The Smarter Student Skills And Strategies for Success at University](/static_files/materials/Books/11_The_Smarter_Student_Skills_And_Strategies_for_Success_at_University.pdf)
+## Resources Books
+* **Introduction To Game Theory** Peter Morris, Introduction to Game Theory. Springer, 0114.
+* **Introduction To Game Theory** Martin J. Osborne, An introduction to GameTheory. Oxford University Press,
+2114.

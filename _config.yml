@@ -1,8 +1,7 @@
 # Site settings
 title: Iran University of Science and Technology
 course_name: Some Course Title
-course_description: "
-The purpose of this lesson is to learn game theory and use the methods presented in this lesson to solve problems.
+course_description: " The purpose of this lesson is to learn game theory and use the methods presented in this lesson to solve problems.
 It's engineering."
 course_semester: "Fall 2019"
 description: |

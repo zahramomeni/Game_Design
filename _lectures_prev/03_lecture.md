@@ -1,8 +1,8 @@
 ---
 type: lecture
-date: 2019-03-02T8:00:00+4:30
-title: Divide and Conquer
-slides: /static_files/presentations/week4_divide_and_conquer.zip
+date: 2019-04-09T8:00:00+4:30
+title: Genres(1)
+slides: /static_files/slides/3.pdf
 #notes: /static_files/presentations/lec.zip
 #codes: /static_files/presentations/code.zip
 #tldr: "Short text to discribe what this lecture is about."

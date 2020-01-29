@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2019-02-23T8:00:00+4:30
+date: 2019-05-23T8:00:00+4:30
 title: Preproduction(1)
 slides: /static_files/slides/1.pdf
 #notes: /static_files/presentations/lec.zip

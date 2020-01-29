@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2019-06-06T8:00:00+4:30
+date: 2019-01-06T8:00:00+4:30
 title: Preproduction
 slides: /static_files/slides/5.pdf
 #notes: /static_files/presentations/lec.zip

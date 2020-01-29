@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2019-04-09T8:00:00+4:30
+date: 2019-03-09T8:00:00+4:30
 title: Genres(1)
 slides: /static_files/slides/3.pdf
 #notes: /static_files/presentations/lec.zip

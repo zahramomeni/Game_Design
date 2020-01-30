@@ -1,9 +1,17 @@
 instructor:
   name: Dr.Behrooz Minaei
-  profile_pic: /_images/avatar.png
+  profile_pic: /_images/5.jpg
 
 teaching_assistants:
-#  - name: Amir Mohammad Ehsandar
-#    profile_pic: /_images/avatar.png    
+- name: Morteza Ragabi
+  profile_pic: /_images/avatar.png 
+- name: Farbod Shahinfar
+  profile_pic: /_images/avatar.png
+- name: Ali Alaei
+  profile_pic: /_images/avatar.png
+- name: Hamed Safaei
+  profile_pic: /_images/avatar.png
+
+
 
     
